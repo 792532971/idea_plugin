@@ -4,7 +4,8 @@
     <name>AI Variable Namer</name>
     <vendor>792532971</vendor>
     <description><![CDATA[
-        <p><b>AI Variable Namer</b> is a JetBrains plugin that helps you generate meaningful variable names using AI.</p>
+        <p><b>AI Variable Namer</b> generates English variable names from Chinese descriptions using a Claude-compatible LLM endpoint.</p>
+        <p>Supports camelCase, snake_case, PascalCase, and SCREAMING_SNAKE_CASE.</p>
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
